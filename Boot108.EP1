@@ -1,0 +1,23 @@
+************* EParray[ 1 ]: TestFile *********
+1             Aantal tijdsonafhankelijke tabellen: (=xInDep)
+0             ***table 0: table-type 0 (no interpolation) 
+1 5           UITVOERTIJDSTIPPEN
+1 2 3 4 5
+4             Aantal tijdsafhankelijk (xy)-tabellen (=xDep)******************
+0             table 0: table-type 0 (no interpolation)
+1             Natuurlijke grondwateraanvulling (m/jaar)
+0 0.3
+0             table 1: table-type 0 (no interpolation)
+5             Atmosferische depositie (kg S/ha/jaar)
+0 25
+1 50
+2 75
+3 100
+4 125
+0             table 2: table-type 0 (no interpolation)
+1             Landgebruik: 1=gras; 2=bouwland; 3=mais; 4=natuur; 5=stedelijk
+0 3
+0             table 3: table-type 0 (no interpolation)
+1             Netto referentie S belasting a.g.v. bemesting (kg S/ha/jaar)
+0 30
+
